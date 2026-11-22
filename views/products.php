@@ -118,7 +118,7 @@ ob_start();
                     <th>Product ID</th>
                     <th>Name</th>
                     <th>Price</th>
-                    <th>Flavour</th>
+                    <th>Brand</th>
                     <th>Actions</th>
                 </tr>
             </thead>
